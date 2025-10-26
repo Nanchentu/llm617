@@ -1,0 +1,31 @@
+id,age,gender,region,occupation,continent,occupation_category
+1,60,Female,Singapore,Social worker,Asia,Public Service
+2,50,Female,Canada,Accountant,Americas,Business
+3,46,Male,South Africa,Graphic designer,Africa,Creative
+4,48,Male,New Zealand,Police officer,Oceania,Public Service
+5,24,Female,New Zealand,Teacher,Oceania,Education
+6,30,Female,France,Graphic designer,Europe,Creative
+7,47,Female,Egypt,Musician,Africa,Creative
+8,25,Female,Nigeria,Psychologist,Africa,Healthcare
+9,35,Male,Brazil,Doctor,Americas,Healthcare
+10,65,Male,New Zealand,Teacher,Oceania,Education
+11,34,Female,Nigeria,Data analyst,Africa,Technology
+12,39,Male,Italy,Lawyer,Europe,Public Service
+13,20,Male,USA,UX designer,Americas,Technology
+14,27,Male,Singapore,University student,Asia,Education
+15,28,Male,Nigeria,Librarian,Africa,Education
+16,46,Male,France,Writer,Europe,Creative
+17,28,Female,Egypt,Lawyer,Africa,Public Service
+18,31,Female,Argentina,Lawyer,Americas,Public Service
+19,26,Male,Mexico,Doctor,Americas,Healthcare
+20,40,Female,Brazil,Writer,Americas,Creative
+21,37,Female,Germany,Entrepreneur,Europe,Business
+22,25,Female,Mexico,Civil servant,Americas,Public Service
+23,38,Male,New Zealand,Lawyer,Oceania,Public Service
+24,25,Female,Indonesia,Data analyst,Asia,Technology
+25,29,Male,South Africa,Entrepreneur,Africa,Business
+26,30,Male,New Zealand,Accountant,Oceania,Business
+27,25,Female,Argentina,Pharmacist,Americas,Healthcare
+28,27,Female,Kenya,Social worker,Africa,Public Service
+29,57,Female,France,Writer,Europe,Creative
+30,40,Male,South Korea,Police officer,Asia,Public Service
